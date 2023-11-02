@@ -1,0 +1,16 @@
+table{
+    border-collapse:collapse
+}
+
+td{
+    height:5px;
+    width:5px
+}
+
+.c0{
+    background-color:lightgrey
+}
+
+.c1{
+    background-color:black
+}
